@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning at Liceul Tehnologic Economic de Turism
+📫 How to reach me: search me on social media with my name
 <!--
 **marcustef/marcustef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
